@@ -134,4 +134,31 @@ footer{
 footer h5 {
 	margin-top: 120%; 
 	font-size: 120%;
+
+}
+
+@media screen (max-width: 768px) {
+	
+	h1 {
+		font-size: 210%;
+	}
+
+	h2 {
+		font-size: 150%;
+	}
+	h3{
+		font-size: 190%;
+	}
+
+	h5 {
+		font-size: 170%;
+	}
+	p{
+		font-size: 180%;
+	}
+	.logo {
+
+
+	}
+	
 }
